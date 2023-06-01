@@ -17,7 +17,7 @@ const NotFoundPage: React.FC<PageProps> = () => {
           <p className="text-2xl md:text-3xl pb-5 pt-5 font-light">Рад сообщить,
             что я недавно переехал на новую квартиру.
             В ней даже имеются холодильник и микроволновка!
-            Хочу с тобой поделиться этой радостью и зову тебя на небольшой праздник.</p>
+            Хочу с тобой поделиться этой радостью и зову тебя на небольшой праздник!</p>
           <div className="bg-cyan-900 rounded-lg p-6 shadow-md">
             <h2 className="text-2xl font-semibold mb-4">Дата</h2>
             <p className="text-slate-50">3 июня 2023, 14:00</p>
